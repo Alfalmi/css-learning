@@ -1,0 +1,52 @@
+* {
+    padding:0px;
+    margin: 0px;;
+}
+
+body {
+    background-color: #444444;
+    
+}
+
+.navbar {
+    background-color: #23b9d2;
+    position: relative;
+    height: 50px;
+    text-align: center;
+    align-items: center;
+    border-radius: 2px;
+    z-index: 1;
+}
+.navbar .menu-text {
+    font-size: 24px;
+}
+
+.navbar-container {
+    
+display: flexbox;
+
+}
+    
+
+.menu-cont {
+    position: relative;
+
+}
+
+.menu-cont .menu{
+
+    
+    padding: 8px;
+}
+
+.container {
+    position: relative;
+    height: 800px;
+    border: 2px solid black;
+}
+.container img {
+
+    height: 600px;
+    width: 600px;
+}
+
